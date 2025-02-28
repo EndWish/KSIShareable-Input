@@ -1,0 +1,12 @@
+{
+  "name": "com.kimsiin.ksishareable.input",
+  "version": "1.0.0",
+  "displayName": "KSIShareable-Input",
+  "description": "A package that provides Input services as a submodule of KSIShareable.",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "SiIn Kim",
+    "email": "ksi8548@gmail.com"
+  }
+}
